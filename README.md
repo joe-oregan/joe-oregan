@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Lead Software Engineer @ReviveLive
+
 <!--
 **joe-oregan/joe-oregan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
