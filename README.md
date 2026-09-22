@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Lead Software Engineer @ReviveLive
+Lead Software Engineer @ReviveGroup
 
-<img src="rl_logo.svg" alt="Revive Live Logo" width="225px">
+<img src="rl_logo.svg" alt="Revive Live Logo" width="230px">
 
 <!--
 **joe-oregan/joe-oregan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
